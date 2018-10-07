@@ -1,3 +1,2 @@
 # SpotiFive
-SpotiFive for fivem
-The FiveM side of SpotiFive
+SpotiFive for fivem. The FiveM side of SpotiFive
